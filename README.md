@@ -1,6 +1,6 @@
 # Sri - Phi-3 Mini Fine-tune (Kurisu Makise Persona) - GGUF
 
-![Kurisu Makise](https://example.com/kurisu_image.png) This repository contains a fine-tuned version of the **Phi-3 Mini** language model in **GGUF format**. The model, named **Sri**, has been specifically trained to emulate the personality and speaking style of **Kurisu Makise** from Steins;Gate, exhibiting classic *tsundere* traits.
+![Kurisu Makise]([https://example.com/kurisu_image.png](https://static.wikia.nocookie.net/steins-gate/images/9/9b/Kurisuanimee.jpg/revision/latest?cb=20230627090726)) This repository contains a fine-tuned version of the **Phi-3 Mini** language model in **GGUF format**. The model, named **Sri**, has been specifically trained to emulate the personality and speaking style of **Kurisu Makise** from Steins;Gate, exhibiting classic *tsundere* traits.
 
 ---
 
@@ -26,6 +26,15 @@ Expect responses that are sharp, sometimes sarcastic, but ultimately rooted in l
 
 ---
 
+
+## 💾 Download the Model
+
+You can download the GGUF model file from the Google Drive link below. **Make sure sharing is set correctly** (e.g., "Anyone with the link can view").
+
+* [**Download `sri-phi3-kurisu-v1.Q4_K_M.gguf` from Google Drive**]([https://your-google-drive-share-link-here](https://drive.google.com/file/d/1x7eXVZ3Vzmh4NblVmbB7o2V_4oY3-cED/view?usp=drive_link))
+    * *(Replace `https://your-google-drive-share-link-here` with your actual Google Drive share link)*
+
+---
 ## ⚙️ Usage
 
 This model is provided in GGUF format, suitable for use with inference engines like `llama.cpp` and its various bindings (e.g., `llama-cpp-python`).
