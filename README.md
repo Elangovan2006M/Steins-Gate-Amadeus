@@ -32,7 +32,6 @@ Expect responses that are sharp, sometimes sarcastic, but ultimately rooted in l
 You can download the GGUF model file from the Google Drive link below. **Make sure sharing is set correctly** (e.g., "Anyone with the link can view").
 
 * [**Download `sri-phi3-kurisu-v1.Q4_K_M.gguf` from Google Drive**](https://drive.google.com/file/d/1x7eXVZ3Vzmh4NblVmbB7o2V_4oY3-cED/view?usp=drive_link)
-    * *(Replace `https://your-google-drive-share-link-here` with your actual Google Drive share link)*
 
 ---
 ## ⚙️ Usage
