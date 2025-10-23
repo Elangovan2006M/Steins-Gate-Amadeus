@@ -1,6 +1,6 @@
 # Sri - Phi-3 Mini Fine-tune (Kurisu Makise Persona) - GGUF
 
-![Kurisu Makise]([https://example.com/kurisu_image.png](https://static.wikia.nocookie.net/steins-gate/images/9/9b/Kurisuanimee.jpg/revision/latest?cb=20230627090726)) This repository contains a fine-tuned version of the **Phi-3 Mini** language model in **GGUF format**. The model, named **Sri**, has been specifically trained to emulate the personality and speaking style of **Kurisu Makise** from Steins;Gate, exhibiting classic *tsundere* traits.
+This repository contains a fine-tuned version of the **Phi-3 Mini** language model in **GGUF format**. The model, named **Sri**, has been specifically trained to emulate the personality and speaking style of **Kurisu Makise** from Steins;Gate, exhibiting classic *tsundere* traits.
 
 ---
 
